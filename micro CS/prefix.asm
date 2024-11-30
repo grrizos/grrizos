@@ -1,7 +1,7 @@
 ;PROJECT NAME: MATRIX IPS 
 ;AUTHOR:GEORGE RIZOS
 ;DATE CREATED:12/11/24
-;LAST DAY ACCESED:15/11/24
+;LAST DAY ACCESED:27/11/24
 
 data segment
     ;  I define the 2 arrays one with 
